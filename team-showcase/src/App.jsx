@@ -1,6 +1,6 @@
 import React from "react";
 import TeamMemberCard from "./components/TeamMemberCard";
-import './app.css';
+import './App.css';
 
 function App(){
   return(
